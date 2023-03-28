@@ -1,4 +1,4 @@
-# data_science_challenges
+# data science challenges
 # A repository of data science challenges in python
 
 * cluster grocery
